@@ -1,0 +1,11 @@
+img,title,abb,attack,defense
+<img src=./images/Argentina.png/>,Argentina,ARG,4.3,2.2
+<img src=./images/Brazil.png/>,Brazil,BRA,4.5,2.4
+<img src=./images/England.png/>,England,ENG,4.2,2.4
+<img src=./images/France.png/>,France,FRA,4.6,2.6
+<img src=./images/Germany.png/>,Germany,GER,4.6,2.5
+<img src=./images/Italy.png/>,Italy,ITA,4.1,2.8
+<img src=./images/Netherlands.png/>,Netherlands,NTH,4.3,2.6
+<img src=./images/Portugal.png/>,Portugal,POR,4.1,2.7
+<img src=./images/Russia.png/>,Russia,RUS,4.2,2.3
+<img src=./images/Spain.png/>,Spain,SPA,4.6,2.4
